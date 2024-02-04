@@ -1,0 +1,17 @@
+span{
+    display: inline-block;
+}
+
+#big-pic{
+    width:500px;
+    height:auto;
+}
+
+.Rubiks{
+    height:100px;
+    width:100px;
+}
+
+body{
+    text-align: center;
+}
